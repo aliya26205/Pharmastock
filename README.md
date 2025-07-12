@@ -38,3 +38,33 @@
 - **Backend**: PHP
 - **Database**: MySQL
 - **PDF Generation**: HTML to PDF using PHP libraries (e.g., TCPDF / FPDF)
+
+## 🧰 How to Run the Project
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/pharmastock-manager.git
+2. **Set Up Local Server**
+
+   * Use **XAMPP** or **WAMP** for local development.
+   * Place the project folder inside the `htdocs` directory.
+
+3. **Import the Database**
+
+   * Create a MySQL database (e.g., `pharmastock_database`).
+   * Import the provided `.sql` file using **phpMyAdmin**.
+
+4. **Configure Database Connection**
+
+   * Update your database credentials in the PHP config file (usually `db.php` or `config.php`).
+
+5. **Run the Project**
+
+   * Visit `http://localhost/pharmastock-manager` in your browser.
+  
+📄 License
+This project is created as part of an academic course. You are free to use or adapt it for learning purposes.
+
+✨ Author
+Aliya Banu
+
