@@ -70,8 +70,8 @@ This project is created as part of an academic course. You are free to use or ad
 
 **Aliya Banu**  
 📧 Email: aliya26205@gmail.com  
-🌐 GitHub: [Github](https://github.com/aliya26205)  
-🔗 LinkedIn: [linkedin](https://www.linkedin.com/in/aliya-banu26/)
+🌐 GitHub: [github.com/aliya26205](https://github.com/aliya26205)  
+🔗 LinkedIn: [linkedin.com/in/aliya-banu26](https://www.linkedin.com/in/aliya-banu26/)
 
 ## 👩‍💻 Project Contributors
 
