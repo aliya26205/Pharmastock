@@ -63,8 +63,26 @@
    * Visit `http://localhost/pharmastock-manager` in your browser.
   
 📄 License
+
 This project is created as part of an academic course. You are free to use or adapt it for learning purposes.
 
 ✨ Author
-Aliya Banu
+
+**Aliya Banu**  
+📧 Email: aliya26205@gmail.com  
+🌐 GitHub: [github.com/your-username](https://github.com/aliya26205)  
+🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/aliya-banu26/)
+
+## 👩‍💻 Project Contributors
+
+- **Aliya Banu**  
+  [GitHub](https://github.com/aliya26205) • [LinkedIn](https://www.linkedin.com/in/aliya-banu26/)
+
+- **Amna Munawar Ali**  
+[LinkedIn](https://www.linkedin.com/in/amna-munawar-ali-7a9292317/)
+
+- **Ifra Ara**  
+[LinkedIn](https://www.linkedin.com/in/sheikh-ifra-ara-861290317/)
+
+
 
