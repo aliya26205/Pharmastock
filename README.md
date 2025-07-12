@@ -52,7 +52,7 @@
 3. **Import the Database**
 
    * Create a MySQL database (e.g., `pharmastock_database`).
-   * Import the provided `.sql` file using **phpMyAdmin**.
+   * Import the provided `pharmastock_database.sql` file using **phpMyAdmin**.
 
 4. **Configure Database Connection**
 
